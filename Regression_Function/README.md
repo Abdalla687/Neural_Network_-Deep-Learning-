@@ -1,19 +1,14 @@
-Key Components
-Data Generation
+#Key Components
+*Data Generation
+*Generated 1000 random samples
+*Each sample has 4 input features (x₁ to x₄) between -1 and 1
+*Output y calculated using the target function
 
-Generated 1000 random samples
+#Split into:
 
-Each sample has 4 input features (x₁ to x₄) between -1 and 1
-
-Output y calculated using the target function
-
-Split into:
-
-70% training (700 samples)
-
-15% validation (150 samples)
-
-15% testing (150 samples)
+*70% training (700 samples)
+*15% validation (150 samples)
+*15% testing (150 samples)
 
 Neural Network Architecture
 
