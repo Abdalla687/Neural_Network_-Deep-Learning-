@@ -4,9 +4,9 @@
 In this article, we will explore the fundamentals of neural networks, their architecture, how they work, and their applications in various fields. Understanding neural networks is essential for anyone interested in the advancements of artificial intelligence.
 
 ## Understanding Neural Networks in Deep Learning 📊
-Neural networks are capable of learning and identifying patterns directly from data without pre-defined rules. These networks are built from several key components:
-1.Neurons: The basic units that receive inputs, each neuron is governed by a threshold and an activation function.
-2.Connections: Links between neurons that carry information, regulated by weights and biases.
-3.Weights and Biases: These parameters determine the strength and influence of connections.
-4.Propagation Functions: Mechanisms that help process and transfer data across layers of neurons.
-5.Learning Rule: The method that adjusts weights and biases over time to improve accuracy.
+* Neural networks are capable of learning and identifying patterns directly from data without pre-defined rules. These networks are built from several key components:
+- Neurons: The basic units that receive inputs, each neuron is governed by a threshold and an activation function.
+- Connections: Links between neurons that carry information, regulated by weights and biases.
+- Weights and Biases: These parameters determine the strength and influence of connections.
+- Propagation Functions: Mechanisms that help process and transfer data across layers of neurons.
+- Learning Rule: The method that adjusts weights and biases over time to improve accuracy.
